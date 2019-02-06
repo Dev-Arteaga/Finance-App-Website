@@ -8,7 +8,7 @@ class App extends Component {
       <main className="App">
         <NavigationBar></NavigationBar>
         <h1>Hello World!</h1>
-        MIGUEL ANGEL
+        MIGUEL ANGEL 
       </main>
     );
   }
